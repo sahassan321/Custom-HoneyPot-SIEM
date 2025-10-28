@@ -10,7 +10,7 @@ This project builds a cloud-based security operations using:
 # 💻 Technologies used
 * Azure Virtual Machines (Windows 11)
 * Microsoft Sentinel
-* * Kusto Query Language (KQL)
+* Kusto Query Language (KQL)
 * Azure Virtual Network (VNet)
 * Network Security Group (NSG)
 * Azure Monitor Agent (AMA)
