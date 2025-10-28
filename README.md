@@ -30,7 +30,7 @@ Developed a cloud based SIEM that traps user who try to gain unauthorized access
 ## Project Setup
 * Depolyed a virual machine using RDP 3389
 * Configured NSG to allow inbound RDP 
-* Allowed the VM to run for 24 to attract attacks
+* Allowed the VM to run for 24 hours to attract attacks
 * <img width="1440" height="772" alt="step1" src="https://github.com/user-attachments/assets/4ee2e57b-0310-4dab-a702-48d9c9cad3b0" />
 
 ## Sentinel Setup
