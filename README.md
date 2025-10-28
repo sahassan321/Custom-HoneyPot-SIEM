@@ -1,6 +1,9 @@
 Custom Honeypot SIEM 
 =======
 ## 🚀 Overview
+<img width="972" height="721" alt="gameplan" src="https://github.com/user-attachments/assets/dc8f3b78-7241-4468-9130-47a396fe4cf4" />
+
+
 This project builds a cloud-based security operations using:
 
 - Azure Sentinel (SIEM)
