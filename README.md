@@ -30,7 +30,7 @@ This project builds a cloud-based security operations using:
 
 
 ## 🚀 Objective  
-Developed a cloud based SIEM that traps user who try to gain unauthorized access to my deployed virtual machine leveraged by Remote Desktop Protocol 3389 (this left the virtual machine exposed in the internet without firewall configurations). The aim of the project was to simulate a cloud detection system by the collection of user logs from Log Analytics, watchlists, and custom workbooks. Documentation is provide to understand the thought process throught the project. Below is the amount of atttacks since the 18th of October
+Developed a cloud based SIEM that traps user who try to gain unauthorized access to my deployed virtual machine leveraged by Remote Desktop Protocol 3389 (this lets the virtual machine exposed in the internet without firewall configurations). The aim of the project was to simulate a cloud detection system by the collection of user logs from Log Analytics, watchlists, and custom workbooks. Documentation is provide to understand the thought process throught the project. Below is the amount of atttacks since the 18th of October
 <img width="1439" height="812" alt="attackattempts" src="https://github.com/user-attachments/assets/d6c7bfb1-0a5d-4c20-8299-d4223b6f90b9" />
 
 
